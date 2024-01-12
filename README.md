@@ -1,1 +1,12 @@
-# BoJ-shinmin
+# Problem List
+
+## Silver
+
+
+## Gold
+
+
+## Platinum
+
+
+## ETC
