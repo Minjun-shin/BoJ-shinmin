@@ -10,7 +10,9 @@
 
 ## Gold
 - [1011 - Fly me to the Alpha Centauri](./gold/1011)  
-- [2447 - 별 찍기-10](./gold/2447)  
+- [2447 - 별 찍기-10](./gold/2447)
+- [11528 - Compositions](./gold/11528)
+- [25824 - 빠른 오름차순 메시지 전달](./gold/25824)
 
 ## Platinum
 
