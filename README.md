@@ -13,6 +13,7 @@
 - [1011 - Fly me to the Alpha Centauri](./gold/1011/1011.md)  
 - [2447 - 별 찍기-10](./gold/2447/2447.md)
 - [11528 - Compositions](./gold/11528/11528.md)
+- [20257 - Make Numbers](./gold/20257/README.md)
 - [25824 - 빠른 오름차순 메시지 전달](./gold/25824/25824.md)
 
 ## Platinum
