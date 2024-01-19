@@ -15,3 +15,9 @@
 수열은 사전 순으로 증가하는 순서로 출력해야 한다.
 
 ## 문제풀이
+두가지 방법으로 풀었다.  
+
+첫 번째는 DFS방식으로 `res`변수에 숫자를 하나씩 넣어 진행하였고 중복을 방지하기 위해 `ch`에서 사용한 숫자면 해당 인덱스의 숫자를 1로 그 뒤엔 0으로 되돌리는 방식으로 체크하였다.  
+
+두 번째는 `itertools`내 `permutations`함수를 사용하였다.
+[itertools 설명사이트](https://docs.python.org/ko/3.8/library/itertools.html)
