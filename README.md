@@ -1,3 +1,5 @@
+### [Profile](https://www.acmicpc.net/user/pulugia57)
+
 # Problem List
 
 ## Silver
@@ -6,7 +8,8 @@
 - [1316 - 그룹 단어 체커](./silver/1316)
 - [1969 - DNA](./silver/1969)
 - [2839 - 설탕 배달](./silver/2839) 
-- [2941 - 크로아티아 알파벳](./silver/2941)  
+- [2941 - 크로아티아 알파벳](./silver/2941)
+- [4673 - 셀프 넘버](./silver/4673)
 - [10994 - 별 찍기-19](./silver/10994)
 - [11047 - 동전 0](./silver/11047) 
 - [13015 - 별 찍기-23](./silver/13015)
