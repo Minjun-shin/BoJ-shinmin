@@ -21,7 +21,8 @@
 - [28358 - 생일 맞추기](./silver/28358)
 
 ## Gold
-- [1011 - Fly me to the Alpha Centauri](./gold/1011)  
+- [1011 - Fly me to the Alpha Centauri](./gold/1011)
+- [2122 - 센서](./gold/2122)
 - [2447 - 별 찍기-10](./gold/2447)
 - [11000 - 강의실 배정](./gold/11000)
 - [11528 - Compositions](./gold/11528)
