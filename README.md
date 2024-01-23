@@ -31,6 +31,7 @@
 - [1011 - Fly me to the Alpha Centauri](./gold/1011)
 - [2122 - 센서](./gold/2122)
 - [2447 - 별 찍기-10](./gold/2447)
+- [7576 - 토마토](./gold/7576)
 - [11000 - 강의실 배정](./gold/11000)
 - [11528 - Compositions](./gold/11528)
 - [20257 - Make Numbers](./gold/20257)
