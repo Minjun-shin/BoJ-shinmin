@@ -3,6 +3,7 @@
 
 test.py
 test.ipynb
+input.txt
 
 ### Django ###
 *.log
